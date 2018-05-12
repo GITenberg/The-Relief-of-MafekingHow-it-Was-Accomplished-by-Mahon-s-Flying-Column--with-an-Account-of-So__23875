@@ -1,0 +1,36 @@
+_repo: The-Relief-of-MafekingHow-it-Was-Accomplished-by-Mahon-s-Flying-Column--with-an-Account-of-So__23875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, Filson
+    aliases:
+    - Young, A. B. Filson (Alexander Bell Filson)
+    - Young, Alexander Bell Filson
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '1393'
+    url: http://www.gutenberg.org/2009/agents/1393
+description: ''
+gutenberg_bookshelf:
+- Scouts
+- Boer War
+gutenberg_issued: '2007-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23875'
+  lccn: '47036967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Mafikeng (South Africa) -- History -- Siege, 1899-1900'
+title: 'The Relief of Mafeking
+
+  How it Was Accomplished by Mahon''s Flying Column; with an Account of Some Earlier
+  Episodes in the Boer War of 1899-1900'
+url: http://www.gutenberg.org/ebooks/23875
